@@ -31,10 +31,11 @@ A. ESERCIZIO EMAIL
 
 B. ESERCIZIO DADI
 1. imposto una variabile per un numero random da 1 a 6 generato dal computer
-2. imposto una variabile per un numero random da 1 a 6 generato dall'utente
-3. genero un nmero random per il computer
-4. creo un prompt per l'inserimento dell'utente
+2. imposto una variabile per un numero random da 1 a 6 generato dal giocatore
+3. genero un numero random per il computer
+4. genero un numero random per il giocatore
 5. creo una condizione per stabilire il numero più alto
-6. in base a chi ottiene il numero più alto stampo un alert
+6. in base a chi ottiene il numero più alto stampo un alert:
    a. 'Hai VINTO' se l'utente ha il numero più alto
    b. 'Hai PERSO' se il computer ha il numero più alto
+   c. 'RITENTA SARAI PIÛ FORTUNATO' se viene generato lo stesso numero
