@@ -4,10 +4,10 @@
 document.addEventListener("click", myFunction);
 function myFunction() {
   //1. imposto una variabile per un numero random da 1 a 6 generato dal computer
-const numeroPc = (parseInt(Math.random() * (6 - 1) + 1));
+const numeroPc = (parseInt(Math.random() * (7 - 1) + 1));
 
 //2. imposto una variabile per un numero random da 1 a 6 generato dal giocatore
-const numeroUtente = (parseInt(Math.random() * (6 - 1) + 1));
+const numeroUtente = (parseInt(Math.random() * (7 - 1) + 1));
 
 //3. genero un numero random per il computer
 console.log(numeroPc);
