@@ -24,9 +24,10 @@ Ricordate: il primo push dovrà essere un file README.md contenente la risoluzio
 A. ESERCIZIO EMAIL
 1. creo una variabile per una lista array con email fittizie
 2. creo una lista array con email fittizie
-2. inserisco un prompt per l'input email da parte dell'utente
-3. creo un ciclo for che mi permetterà di confrontare l'input con i dati nell'array
-4. SE l'indirizzo e-mail input esiste  nell'array stampo un alert: "Email esisitente"
+3. crea una variabile per l'input utente
+4. inserisco un prompt per l'input email da parte dell'utente
+5. creo un ciclo for che mi permetterà di confrontare l'input con i dati nell'array
+6. SE l'indirizzo e-mail input esiste  nell'array stampo un alert: "Email esisitente"
 
 B. ESERCIZIO DADI
 1. imposto una variabile per un numero random da 1 a 6 generato dal computer
